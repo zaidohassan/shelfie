@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #ab2a19;
+  height: 10vh;
+  text-align: center;
+  color: white;
+  margin-bottom: 10vh;
+}
+
+.wrap {
+  height: 100%;
+  width: 30vw;
+}
+.brand {
+  color: white;
+  display: flex;
+  margin-left: 2vw;
+  padding-top: 2vh;
+  padding-left: 5vw;
+  font-size: 35px;
+}
+
+.circle {
+  background: white;
+  border-radius: 50%;
+  height: 3vw;
+  width: 3vh;
+  margin-left: 9vw;
+  margin-top: 3vh;
+  margin-bottom: 8vh;
+}
